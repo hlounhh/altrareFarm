@@ -12,4 +12,4 @@ ENV PORT=8080
 
 EXPOSE 8080
 
-CMD ["python", "web.py"]
+CMD ["python", "app.py"]
